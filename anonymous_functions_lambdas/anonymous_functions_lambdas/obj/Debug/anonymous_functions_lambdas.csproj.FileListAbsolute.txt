@@ -1,0 +1,7 @@
+C:\Users\SirJUST\source\repos\learning\anonymous_functions_lambdas\anonymous_functions_lambdas\bin\Debug\anonymous_functions_lambdas.exe.config
+C:\Users\SirJUST\source\repos\learning\anonymous_functions_lambdas\anonymous_functions_lambdas\bin\Debug\anonymous_functions_lambdas.exe
+C:\Users\SirJUST\source\repos\learning\anonymous_functions_lambdas\anonymous_functions_lambdas\bin\Debug\anonymous_functions_lambdas.pdb
+C:\Users\SirJUST\source\repos\learning\anonymous_functions_lambdas\anonymous_functions_lambdas\obj\Debug\anonymous_functions_lambdas.csprojAssemblyReference.cache
+C:\Users\SirJUST\source\repos\learning\anonymous_functions_lambdas\anonymous_functions_lambdas\obj\Debug\anonymous_functions_lambdas.csproj.CoreCompileInputs.cache
+C:\Users\SirJUST\source\repos\learning\anonymous_functions_lambdas\anonymous_functions_lambdas\obj\Debug\anonymous_functions_lambdas.exe
+C:\Users\SirJUST\source\repos\learning\anonymous_functions_lambdas\anonymous_functions_lambdas\obj\Debug\anonymous_functions_lambdas.pdb
