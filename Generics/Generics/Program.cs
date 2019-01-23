@@ -34,8 +34,19 @@ namespace Generics
             Console.WriteLine(myIntList.Count);
             Console.WriteLine(myIntList[1]);
 
+            MyList<int> firstIntList = new MyList<int>();
+            MyList<int> secondIntList = new MyList<int>();
 
+            firstIntList.Add(1);
+            firstIntList.Add(10);
+            firstIntList.Add(100);
+            secondIntList.Add(1);
+            secondIntList.Add(5);
+            secondIntList.Add(10);
 
+            MyList<int> result = firstIntList + secondIntList;
+
+            Console.WriteLine(result.ToString());
             Console.Read();
         }
         
